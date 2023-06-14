@@ -28,7 +28,8 @@ library
     StandaloneDeriving,
     TemplateHaskell,
     TypeApplications,
-    UndecidableInstances
+    UndecidableInstances,
+    ConstraintKinds
   build-depends:
     base >=4,
     categories,
